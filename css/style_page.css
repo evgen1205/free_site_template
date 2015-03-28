@@ -1,0 +1,29 @@
+@import url(style_main.css);
+
+.content{
+	width:550px;
+	padding:10px 16px;
+}
+
+h1{
+	font-size:18px;
+	font-weight:bold;
+	padding:0 0 10px;
+}
+
+.content ul, .content ol{
+	padding-left:32px;
+	list-style:auto;
+}
+
+.content ul {
+	list-style:disc;
+}
+
+.content>p>img{
+	margin:8px 20px 4px 0;
+}
+
+h4{
+	margin:6px 0;
+}
